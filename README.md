@@ -15,9 +15,6 @@ JavaScript vs TypeScript
 램 32기가 i5 듀얼 코어 컴퓨터  vs 램 8기가 i9 쿼드 코어
 > 선택 :
 
-### 3. 브라우저를 선택해야 한다면32
-# 😐 2 단계
-
 ### 1. 한개의 프로그래밍 언어만 평생 써야 한다면?
 Python vs JavaScript
 > 선택 :
