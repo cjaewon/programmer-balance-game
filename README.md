@@ -7,8 +7,8 @@
 JavaScript vs TypeScript
 > 선택 :
 
-### 노트북 모니터를 선택해야 한다면
-33인치 4k 모니터와 엄청난 발열 vs 노트북 모니터 사용
+### 한개의 에디터만 써야한다면
+자동완성 없는 Visual Studio Code vs 플러그인 없는 순수 Vim (빔)
 > 선택 :
 
 # 2 단계
